@@ -45,6 +45,16 @@ Contributions welcome. See “Contributing” below.
     * [Official WMATA map](http://wmata.com/bus/maps/)
     * [BeyondDC](http://beyonddc.com/log/?p=3808)
 
+# South America
+
+* [Curitiba, Brazil](https://upload.wikimedia.org/wikipedia/commons/1/16/Curitiba_PublicTransport.png)
+
+# United Kingdom
+
+* [York](http://www.firstgroup.com/uploads/maps/York%20Network%20Map_web.pdf)
+
+#
+
 # Contributing
 
 Have a map to add? Use GitHub to open an issue or pull request, or tweet at me: [@wwcline](https://twitter.com/wwcline).
