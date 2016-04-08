@@ -27,9 +27,11 @@ Contributions welcome.
 * [Portland](http://www.trimet.org/schedules/frequentservice.htm)
 * [Salt Lake City](http://www.rideuta.com/uploads/Dec2012SaltLakeSystemMap.pdf)
 * [San Antonio](http://www.viainfo.net/BusService/SystemMap.pdf)
-* [San Francisco](http://calurbanist.com/san-francisco-frequent-transit/) (unofficial)
+* San Francisco Bay Area
+    * [San Francisco official](https://www.sfmta.com/sites/default/files/maps/2016/SFMTA-Metro-Sept2015-RTP-Outln.pdf)
+    * [San Francisco unofficial](http://calurbanist.com/san-francisco-frequent-transit/)
     * [East Bay](http://calurbanist.com/east-bay-frequent-transit/) (unofficial)
-* [San José](http://beyonddc.com/log/vta.org/schedules/pdf/select_transit_service_15minute.pdf)
+    * [San José](http://beyonddc.com/log/vta.org/schedules/pdf/select_transit_service_15minute.pdf)
 * Seattle
     * [Official](http://metro.kingcounty.gov/maps/)
     * [Seattle Transit Blog](http://seattletransitblog.com/2014/02/12/frequent-transit-map-updated/)
