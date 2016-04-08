@@ -1,4 +1,4 @@
-Frequent transit maps are a useful way to learn where you can travel conveniently using mass transit. A frequent transit map distinguishes frequent, all-day bus and rail lines from those that run infrequently or only during certain hours. See  [“The Case for Frequency Mapping”](http://humantransit.org/2010/08/basics-the-case-for-frequency-mapping.html).
+A frequent transit map shows bus and rail lines that run frequently all day, distinguishing them from lines that run infrequently or only during rush hour. Analagous to a road map that distinguishes highways and arterial streets from local streets, a frequent transit map shows where you can ride without a long wait. Put another way, these maps show where you can travel quickly and conveniently using transit. See [“The Case for Frequency Mapping”](http://humantransit.org/2010/08/basics-the-case-for-frequency-mapping.html).
 
 Contributions welcome.
 
@@ -47,7 +47,7 @@ Contributions welcome.
 
 # Credits
 
-Inspired by, and initial data taken from, BeyondDC’s [List of all known American & Canadian frequent transit maps](http://beyonddc.com/log/?page_id=5013).
+Inspired by, and initial data taken from, BeyondDC’s [list of all known American & Canadian frequent transit maps](http://beyonddc.com/log/?page_id=5013).
 
 # License
 
