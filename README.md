@@ -21,9 +21,10 @@ Contributions welcome.
 * [Minneapolis/St. Paul](http://metrotransit.org/high-frequency-network-map.aspx)
 * [Montreal](http://www.stm.info/info/10max.htm)
 * New York
-    * [New York 1](http://pedestrianobservations.wordpress.com/2011/05/13/frequent-new-york-city-buses/) (unofficial)
-    * [New York 2](http://queenstransit.wordpress.com/category/frequent-maps/) (unofficial)
-    * [Hudson NJ](http://capntransit.blogspot.com/2012/08/frequent-transit-in-hudson-county-new.html) (unofficial)
+    * [Pedestrian Observations (unofficial)](http://pedestrianobservations.wordpress.com/2011/05/13/frequent-new-york-city-buses/) (unofficial)
+    * [NY Transit Maps (unofficial)](http://nytransitmaps.tumblr.com/post/107648099115/a-frequent-transit-map-of-new-york-for-2015-all)
+    * [Queens Transit blog (unofficial)](http://queenstransit.wordpress.com/category/frequent-maps/)
+    * [Hudson, NJ (unofficial)](http://capntransit.blogspot.com/2012/08/frequent-transit-in-hudson-county-new.html)
 * [Portland](http://www.trimet.org/schedules/frequentservice.htm)
 * [Salt Lake City](http://www.rideuta.com/uploads/Dec2012SaltLakeSystemMap.pdf)
 * [San Antonio](http://www.viainfo.net/BusService/SystemMap.pdf)
