@@ -1,2 +1,54 @@
-# list-of-frequent-transit-maps
-List of all frequent transit maps — http://humantransit.org/2010/08/basics-the-case-for-frequency-mapping.html
+Frequent transit maps are a useful way to learn where you can travel conveniently using mass transit. A frequent transit map distinguishes frequent, all-day bus and rail lines from those that run infrequently or only during certain hours. See  [“The Case for Frequency Mapping”](http://humantransit.org/2010/08/basics-the-case-for-frequency-mapping.html).
+
+Contributions welcome.
+
+# North America
+
+* [Baltimore](http://marc.szarkowski.us/4_Miscellaneous_Files/FrequentTransitMap/FrequentTransitMap.pdf) (unofficial)
+* [Bellingham, WA](http://ridewta.com/schedules-and-maps/schedules/go-lines)
+* [Boston](http://www.mbta.com/schedules_and_maps/subway/)
+* [Buffalo, NY](http://forum.skyscraperpage.com/showthread.php?t=146518) (unofficial)
+* [Champaign/Urbana, IL](http://www.cumtd.com/maps-and-schedules/system-maps/highfrequency)
+* [Chicago](http://www.prairiestateblue.com/diary/5576/cta-chicago-transit-authority-frequent-service-mapping) (unofficial)
+* [Cincinnati](http://www.cincymap.org/) (unofficial)
+* [Columbus](http://xingcolumbus.wordpress.com/2010/10/06/cota-frequent-network-map/) (unofficial)
+* [Denver](http://denverurbanism.com/2013/02/learn-to-love-the-bus-with-a-map-of-rtds-best-routes.html)
+* [Indianapolis](http://www.indygo.net/pages/system-map)
+* [Los Angeles](http://www.metro.net/riding_metro/maps/images/15_min_map.gif)
+    * [Orange County 1](http://www.octa.net/pdf/OCTASystemMapjune14.pdf)
+    * [Orange County 2](http://octa.net/pdf/ETC_RideGuide%2015-minute.pdf)
+* [Minneapolis/St. Paul](http://metrotransit.org/high-frequency-network-map.aspx)
+* [Montreal](http://www.stm.info/info/10max.htm)
+* New York
+    * [New York 1](http://pedestrianobservations.wordpress.com/2011/05/13/frequent-new-york-city-buses/) (unofficial)
+    * [New York 2](http://queenstransit.wordpress.com/category/frequent-maps/) (unofficial)
+    * [Hudson NJ](http://capntransit.blogspot.com/2012/08/frequent-transit-in-hudson-county-new.html) (unofficial)
+* [Portland](http://www.trimet.org/schedules/frequentservice.htm)
+* [Salt Lake City](http://www.rideuta.com/uploads/Dec2012SaltLakeSystemMap.pdf)
+* [San Antonio](http://www.viainfo.net/BusService/SystemMap.pdf)
+* [San Francisco](http://calurbanist.com/san-francisco-frequent-transit/) (unofficial)
+    * [East Bay](http://calurbanist.com/east-bay-frequent-transit/) (unofficial)
+* [San José](http://beyonddc.com/log/vta.org/schedules/pdf/select_transit_service_15minute.pdf)
+* Seattle
+    * [Official](http://metro.kingcounty.gov/maps/)
+    * [Seattle Transit Blog](http://seattletransitblog.com/2014/02/12/frequent-transit-map-updated/)
+    * [seattletransitmap.com](http://seattletransitmap.com/)
+* [Spokane, WA](http://www.spokanetransit.com/files/routes-schedules/System_Map_2013_p1.pdf)
+* [Toronto](http://ericvery.wordpress.com/2012/11/25/frequent-transit-in-toronto/) (unofficial)
+* [Tucson, AZ](http://www.humantransit.org/2014/07/tucson-a-frequent-network-map.html) (unofficial)
+* [Vancouver](http://www.translink.ca/en/Plans-and-Projects/Frequent-Transit-Network.aspx)
+* Washington, DC
+    * [Official WMATA map](http://wmata.com/bus/maps/)
+    * [BeyondDC](http://beyonddc.com/log/?p=3808)
+
+# Credits
+
+Inspired by, and initial data taken from, BeyondDC’s [List of all known American & Canadian frequent transit maps](http://beyonddc.com/log/?page_id=5013).
+
+# License
+
+Licensed under [Attribution-NonCommercial-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+# See also
+
+* [frequent-finder](https://github.com/gregjd/frequent-finder): A library for auto-generating frequent network maps for public transit systems, using GTFS data as input.
