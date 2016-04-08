@@ -28,7 +28,7 @@ Contributions welcome.
     * [Hudson, NJ (unofficial)](http://capntransit.blogspot.com/2012/08/frequent-transit-in-hudson-county-new.html)
 * [Portland](http://www.trimet.org/schedules/frequentservice.htm)
 * [Salt Lake City](http://www.rideuta.com/uploads/Dec2012SaltLakeSystemMap.pdf)
-* [San Antonio](http://www.viainfo.net/BusService/SystemMap.pdf)
+* [San Antonio](http://www.viainfo.net/BusService/Docs/VIASystemMapJUNE2015.pdf)
 * San Francisco Bay Area
     * [San Francisco official](https://www.sfmta.com/sites/default/files/maps/2016/SFMTA-Metro-Sept2015-RTP-Outln.pdf)
     * [San Francisco unofficial](http://calurbanist.com/san-francisco-frequent-transit/)
