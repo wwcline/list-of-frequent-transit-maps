@@ -1,4 +1,4 @@
-A frequent transit map shows bus and rail lines that run frequently all day, distinguishing them from lines that run infrequently or only during rush hour. Analagous to a road map that distinguishes highways and arterial streets from local streets, a frequent transit map shows where you can ride without a long wait. Put another way, these maps show where you can travel quickly and conveniently using transit. See [“The Case for Frequency Mapping”](http://humantransit.org/2010/08/basics-the-case-for-frequency-mapping.html).
+A frequent transit map shows bus and rail lines that run frequently all day, distinguishing them from lines that run infrequently or only during rush hour. Analagous to a road map that distinguishes highways and arterial streets from local streets, a frequent transit map shows where you can ride <b>without worrying about a transit schedule</b>. See [“The Case for Frequency Mapping”](http://humantransit.org/2010/08/basics-the-case-for-frequency-mapping.html).
 
 Contributions welcome.
 
