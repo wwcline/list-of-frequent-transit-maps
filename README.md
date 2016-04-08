@@ -22,7 +22,7 @@ Contributions welcome.
 * [Minneapolis/St. Paul](http://metrotransit.org/high-frequency-network-map.aspx)
 * [Montréal](http://www.stm.info/sites/default/files/pictures/reseau10max-2016.pdf)
 * New York
-    * [Pedestrian Observations (unofficial)](http://pedestrianobservations.wordpress.com/2011/05/13/frequent-new-york-city-buses/) (unofficial)
+    * [Pedestrian Observations (unofficial)](http://pedestrianobservations.wordpress.com/2011/05/13/frequent-new-york-city-buses/)
     * [NY Transit Maps (unofficial)](http://nytransitmaps.tumblr.com/post/107648099115/a-frequent-transit-map-of-new-york-for-2015-all)
     * [Queens Transit blog (unofficial)](http://queenstransit.wordpress.com/category/frequent-maps/)
     * [Hudson, NJ (unofficial)](http://capntransit.blogspot.com/2012/08/frequent-transit-in-hudson-county-new.html)
