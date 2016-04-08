@@ -20,7 +20,7 @@ Contributions welcome.
     * [Los Angeles Metro map](http://media.metro.net/riding_metro/maps/images/system_map.pdf) also shows frequency
     * [Orange County](http://octa.net/pdf/ETC_RideGuide%2015-minute.pdf)
 * [Minneapolis/St. Paul](http://metrotransit.org/high-frequency-network-map.aspx)
-* [Montreal](http://www.stm.info/info/10max.htm)
+* [Montréal](http://www.stm.info/sites/default/files/pictures/reseau10max-2016.pdf)
 * New York
     * [Pedestrian Observations (unofficial)](http://pedestrianobservations.wordpress.com/2011/05/13/frequent-new-york-city-buses/) (unofficial)
     * [NY Transit Maps (unofficial)](http://nytransitmaps.tumblr.com/post/107648099115/a-frequent-transit-map-of-new-york-for-2015-all)
