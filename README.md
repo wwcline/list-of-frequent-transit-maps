@@ -10,7 +10,7 @@ Contributions welcome.
 * [Boston](http://www.mbta.com/schedules_and_maps/subway/)
 * [Buffalo, NY](https://www.google.com/maps/d/viewer?msa=0&ie=UTF&mid=zJrBqJ5t3ofc.krqQ-opbkEYA) (unofficial)
 * [Champaign/Urbana, IL](http://www.cumtd.com/maps-and-schedules/system-maps/highfrequency)
-* [Chicago](http://www.prairiestateblue.com/diary/5576/cta-chicago-transit-authority-frequent-service-mapping) (unofficial)
+* [Chicago](http://web.archive.org/web/20140214104948/http://www.prairiestateblue.com/diary/5576/cta-chicago-transit-authority-frequent-service-mapping) (unofficial)
 * [Cincinnati](http://www.cincymap.org/) (unofficial)
 * [Columbus](http://xingcolumbus.wordpress.com/2010/10/06/cota-frequent-network-map/) (unofficial)
 * [Denver](http://denverurbanism.com/2013/02/learn-to-love-the-bus-with-a-map-of-rtds-best-routes.html)
