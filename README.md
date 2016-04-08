@@ -47,11 +47,11 @@ Contributions welcome.
 
 # Credits
 
-Inspired by, and initial data taken from, BeyondDC’s [list of all known American & Canadian frequent transit maps](http://beyonddc.com/log/?page_id=5013).
+Inspired by, and initial list copied from, BeyondDC’s [list of all known American & Canadian frequent transit maps](http://beyonddc.com/log/?page_id=5013).
 
 # License
 
-Licensed under [Attribution-NonCommercial-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+List licensed under [Attribution-NonCommercial-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 # See also
 
