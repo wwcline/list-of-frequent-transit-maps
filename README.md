@@ -15,7 +15,9 @@ Contributions welcome.
 * [Columbus](http://xingcolumbus.wordpress.com/2010/10/06/cota-frequent-network-map/) (unofficial)
 * [Denver](http://denverurbanism.com/2013/02/learn-to-love-the-bus-with-a-map-of-rtds-best-routes.html)
 * [Indianapolis](http://www.indygo.net/pages/system-map)
-* [Los Angeles](http://www.metro.net/riding_metro/maps/images/15_min_map.gif)
+* Los Angeles
+    * [Los Angeles Metro “15 Minute Map”](http://www.metro.net/riding_metro/maps/images/15_min_map.gif)
+    * [Los Angeles Metro map](http://media.metro.net/riding_metro/maps/images/system_map.pdf) also shows frequency
     * [Orange County 1](http://www.octa.net/pdf/OCTASystemMapjune14.pdf)
     * [Orange County 2](http://octa.net/pdf/ETC_RideGuide%2015-minute.pdf)
 * [Minneapolis/St. Paul](http://metrotransit.org/high-frequency-network-map.aspx)
