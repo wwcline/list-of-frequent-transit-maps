@@ -31,7 +31,6 @@ Contributions welcome.
 * [San Antonio](http://www.viainfo.net/BusService/Docs/VIASystemMapJUNE2015.pdf)
 * San Francisco Bay Area
     * [San Francisco official](https://www.sfmta.com/sites/default/files/maps/2016/SFMTA-Metro-Sept2015-RTP-Outln.pdf)
-    * [San Francisco unofficial](http://calurbanist.com/san-francisco-frequent-transit/)
     * [East Bay](http://calurbanist.com/east-bay-frequent-transit/) (unofficial)
     * [San José](http://beyonddc.com/log/vta.org/schedules/pdf/select_transit_service_15minute.pdf)
 * Seattle
