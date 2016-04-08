@@ -18,8 +18,7 @@ Contributions welcome.
 * Los Angeles
     * [Los Angeles Metro “15 Minute Map”](http://www.metro.net/riding_metro/maps/images/15_min_map.gif)
     * [Los Angeles Metro map](http://media.metro.net/riding_metro/maps/images/system_map.pdf) also shows frequency
-    * [Orange County 1](http://www.octa.net/pdf/OCTASystemMapjune14.pdf)
-    * [Orange County 2](http://octa.net/pdf/ETC_RideGuide%2015-minute.pdf)
+    * [Orange County](http://octa.net/pdf/ETC_RideGuide%2015-minute.pdf)
 * [Minneapolis/St. Paul](http://metrotransit.org/high-frequency-network-map.aspx)
 * [Montreal](http://www.stm.info/info/10max.htm)
 * New York
