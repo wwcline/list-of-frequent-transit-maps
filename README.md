@@ -1,6 +1,6 @@
 A frequent transit map shows bus and rail lines that run frequently all day, distinguishing them from lines that run infrequently or only during rush hour. Analagous to a road map that distinguishes highways and arterial streets from local streets, a frequent transit map shows where you can ride <b>without worrying about a transit schedule</b>. See [“The Case for Frequency Mapping”](http://humantransit.org/2010/08/basics-the-case-for-frequency-mapping.html).
 
-Contributions welcome.
+Contributions welcome. See “Contributing” below.
 
 # North America
 
@@ -44,6 +44,10 @@ Contributions welcome.
 * Washington, DC
     * [Official WMATA map](http://wmata.com/bus/maps/)
     * [BeyondDC](http://beyonddc.com/log/?p=3808)
+
+# Contributing
+
+Have a map to add? Use GitHub to open an issue or pull request, or tweet at me: [@wwcline](https://twitter.com/wwcline).
 
 # Credits
 
