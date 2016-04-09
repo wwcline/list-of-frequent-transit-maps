@@ -65,6 +65,10 @@ Have a map to add? Use GitHub to open an issue or pull request, or tweet at me: 
 
 Inspired by, and initial list copied from, BeyondDC’s [list of all known American & Canadian frequent transit maps](http://beyonddc.com/log/?page_id=5013).
 
+## Contributors
+
+* [@gurami](https://twitter.com/gurami)
+
 # License
 
 List licensed under [Attribution-NonCommercial-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/)
