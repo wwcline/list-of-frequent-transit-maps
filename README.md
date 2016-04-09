@@ -27,6 +27,7 @@ Contributions welcome. See “Contributing” below.
     * [Queens Transit blog (unofficial)](http://queenstransit.wordpress.com/category/frequent-maps/)
     * [Hudson, NJ (unofficial)](http://capntransit.blogspot.com/2012/08/frequent-transit-in-hudson-county-new.html)
 * [Portland](http://www.trimet.org/schedules/frequentservice.htm)
+* [Richmond, Virginia](http://www.ridegrtc.com/media/routes/System_Map_-_January_24,_2016.pdf)
 * [Salt Lake City](http://www.rideuta.com/uploads/Dec2012SaltLakeSystemMap.pdf)
 * [San Antonio](http://www.viainfo.net/BusService/Docs/VIASystemMapJUNE2015.pdf)
 * San Francisco Bay Area
