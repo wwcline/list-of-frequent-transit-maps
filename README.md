@@ -28,6 +28,7 @@ Contributions welcome. See “Contributing” below.
     * [Hudson, NJ (unofficial)](http://capntransit.blogspot.com/2012/08/frequent-transit-in-hudson-county-new.html)
 * [Philadelphia](http://unofficialseptafrequent.tumblr.com/) (unofficial)
 * [Portland, Oregon](http://www.trimet.org/schedules/frequentservice.htm)
+* [Providence, Rhode Island](http://www.ripta.com/stuff/contentmgr/files/0/4214cdbbe108103ebf207dd481fd0d0a/files/ripta_2012_system_map_final.pdf)
 * [Richmond, Virginia](http://www.ridegrtc.com/media/routes/System_Map_-_January_24,_2016.pdf)
 * [San Antonio](http://www.viainfo.net/BusService/Docs/VIASystemMapJUNE2015.pdf)
 * San Francisco Bay Area
