@@ -29,7 +29,6 @@ Contributions welcome. See “Contributing” below.
 * [Philadelphia](http://unofficialseptafrequent.tumblr.com/) (unofficial)
 * [Portland, Oregon](http://www.trimet.org/schedules/frequentservice.htm)
 * [Richmond, Virginia](http://www.ridegrtc.com/media/routes/System_Map_-_January_24,_2016.pdf)
-* [Salt Lake City](http://www.rideuta.com/uploads/Dec2012SaltLakeSystemMap.pdf)
 * [San Antonio](http://www.viainfo.net/BusService/Docs/VIASystemMapJUNE2015.pdf)
 * San Francisco Bay Area
     * [San Francisco official](https://www.sfmta.com/sites/default/files/maps/2016/SFMTA-Metro-Sept2015-RTP-Outln.pdf)
