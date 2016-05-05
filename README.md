@@ -34,7 +34,6 @@ Contributions welcome. See “Contributing” below.
 * San Francisco Bay Area
     * [San Francisco official](https://www.sfmta.com/sites/default/files/maps/2016/SFMTA-Metro-Sept2015-RTP-Outln.pdf)
     * [East Bay](http://calurbanist.com/east-bay-frequent-transit/) (unofficial)
-    * [San José / Santa Clara County](https://web.archive.org/web/20130822004953/http://vta.org/schedules/pdf/select_transit_service_15minute.pdf)
 * Seattle
     * [King County Metro official](http://kingcounty.gov/depts/transportation/metro/schedules-maps/system-maps.aspx)
     * [Seattle Transit Blog](http://seattletransitblog.com/2014/02/12/frequent-transit-map-updated/)
