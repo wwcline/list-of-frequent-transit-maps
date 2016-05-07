@@ -13,7 +13,10 @@ Contributions welcome. See “Contributing” below.
 * [Chicago](http://web.archive.org/web/20140214104948/http://www.prairiestateblue.com/diary/5576/cta-chicago-transit-authority-frequent-service-mapping) (unofficial)
 * [Cincinnati](http://www.cincymap.org/) (unofficial)
 * [Columbus](http://xingcolumbus.wordpress.com/2010/10/06/cota-frequent-network-map/) (unofficial)
-* [Denver](http://denverurbanism.com/2013/02/learn-to-love-the-bus-with-a-map-of-rtds-best-routes.html)
+* [Denver](http://denverurbanism.com/2013/02/learn-to-love-the-bus-with-a-map-of-rtds-best-routes.html) (unofficial)
+* Houston
+   * [System map](http://ridemetro.org/MetroPDFs/NBN/New-METRO-System-Map.pdf) (shows frequent network)
+   * [Map showing frequent network only](http://ridemetro.org/MetroPDFs/Schedules/SystemMaps/n-METRO-Frequent-Network-map.pdf)
 * [Indianapolis](http://www.indygo.net/pages/system-map)
 * Los Angeles
     * [Los Angeles Metro “15 Minute Map”](http://www.metro.net/riding_metro/maps/images/15_min_map.gif)
