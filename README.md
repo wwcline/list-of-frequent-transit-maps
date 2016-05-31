@@ -38,9 +38,8 @@ Contributions welcome. See “Contributing” below.
     * [San Francisco official](https://www.sfmta.com/sites/default/files/maps/2016/SFMTA-Metro-Sept2015-RTP-Outln.pdf)
     * [East Bay](http://calurbanist.com/east-bay-frequent-transit/) (unofficial)
 * Seattle
+    * [seattletransitmap.com](http://seattletransitmap.com/) (unofficial)
     * [King County Metro official](http://kingcounty.gov/depts/transportation/metro/schedules-maps/system-maps.aspx)
-    * [Seattle Transit Blog](http://seattletransitblog.com/2014/02/12/frequent-transit-map-updated/)
-    * [seattletransitmap.com](http://seattletransitmap.com/)
 * [Spokane, WA](https://www.spokanetransit.com/files/content/SPO_MaG_system_WEB_2014.pdf)
 * [Toronto](http://ericvery.wordpress.com/2012/11/25/frequent-transit-in-toronto/) (unofficial)
 * [Tucson, AZ](http://www.humantransit.org/2014/07/tucson-a-frequent-network-map.html) (unofficial)
