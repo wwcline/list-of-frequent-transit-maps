@@ -2,10 +2,6 @@ A frequent transit map shows bus and rail lines that run frequently all day, dis
 
 Contributions welcome. See “Contributing” below.
 
-# Oceania
-
-* [South Auckland, New Zealand](https://at.govt.nz/media/1971581/sg_southern-guide_oct-2016-web.pdf)
-
 # North America
 
 * [Austin, TX](http://www.capmetro.org/uploadedfiles/Capmetroorg/Schedules_and_Maps/System_Map.pdf)
@@ -52,6 +48,10 @@ Contributions welcome. See “Contributing” below.
 * Washington, DC
     * [Official WMATA map](http://wmata.com/bus/maps/)
     * [BeyondDC](http://beyonddc.com/log/?p=3808)
+
+# Oceania
+
+* [South Auckland, New Zealand](https://at.govt.nz/media/1971581/sg_southern-guide_oct-2016-web.pdf)
 
 # South America
 
