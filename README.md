@@ -19,7 +19,7 @@ Contributions welcome. See “Contributing” below.
    * [Map showing frequent network only](http://ridemetro.org/MetroPDFs/Schedules/SystemMaps/n-METRO-Frequent-Network-map.pdf)
 * [Indianapolis](http://www.indygo.net/pages/system-map)
 * Los Angeles
-    * [Los Angeles Metro “15 Minute Map”](http://www.metro.net/riding_metro/maps/images/15_min_map.gif)
+    * [Los Angeles Metro “15 Minute Map”](http://media.metro.net/riding_metro/maps/images/15_min_map.gif)
     * [Los Angeles Metro map](http://media.metro.net/riding_metro/maps/images/system_map.pdf) also shows frequency
     * [Orange County](http://octa.net/pdf/ETC_RideGuide%2015-minute.pdf)
 * [Minneapolis/St. Paul](http://metrotransit.org/high-frequency-network-map.aspx)
