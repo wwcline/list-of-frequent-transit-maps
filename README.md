@@ -32,7 +32,7 @@ Contributions welcome. See “Contributing” below.
 * [Philadelphia](http://unofficialseptafrequent.tumblr.com/) (unofficial)
 * [Portland, Oregon](http://www.trimet.org/schedules/frequentservice.htm)
 * [Providence, Rhode Island](http://www.ripta.com/stuff/contentmgr/files/0/4214cdbbe108103ebf207dd481fd0d0a/files/ripta_2012_system_map_final.pdf)
-* [Richmond, Virginia](http://www.ridegrtc.com/media/routes/System_Map_-_January_24,_2016.pdf)
+* [Richmond, Virginia](http://ridegrtc.com/media/routes/SystemMap_Nov2016.pdf)
 * [San Antonio](http://www.viainfo.net/BusService/Docs/VIASystemMapJUNE2015.pdf)
 * San Francisco Bay Area
     * [San Francisco official](https://www.sfmta.com/sites/default/files/maps/2016/SFMTA-Metro-Sept2015-RTP-Outln.pdf)
