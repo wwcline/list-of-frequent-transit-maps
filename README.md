@@ -46,7 +46,12 @@ Contributions welcome. See “Contributing” below.
 * [Tucson, AZ](http://www.humantransit.org/2014/07/tucson-a-frequent-network-map.html) (unofficial)
 * [Vancouver](http://www.translink.ca/en/Plans-and-Projects/Frequent-Transit-Network.aspx)
 * Washington, DC
-    * [Official WMATA map](http://wmata.com/bus/maps/)
+    * [Official WMATA maps](https://www.wmata.com/schedules/maps/)
+        * [District](https://www.wmata.com/schedules/maps/upload/WEB_DC-Metrobus-System-Map-FINAL.pdf)
+        * [Montgomery County, Maryland](https://www.wmata.com/schedules/maps/upload/Mo-County-System-Map-Web-version.pdf)
+        * [Prince George’s County, Maryland](https://www.wmata.com/schedules/maps/upload/WEB_PG-County-Metrobus-System-Map-FINAL.pdf)
+        * [Takoma Langley Crossroads Transit Center](https://www.wmata.com/schedules/maps/upload/Takoma_Langley_Crossroads_TC_Map.pdf)
+        * [Virginia](https://www.wmata.com/schedules/maps/upload/VA-System-Map-Web-version.pdf)
     * [BeyondDC](http://beyonddc.com/log/?p=3808)
 
 # Oceania
