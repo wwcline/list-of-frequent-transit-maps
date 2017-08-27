@@ -4,7 +4,8 @@ Contributions welcome. See “Contributing” below.
 
 # North America
 
-* [Austin, TX](http://www.capmetro.org/uploadedfiles/Capmetroorg/Schedules_and_Maps/System_Map.pdf)
+* [Austin, TX](https://www.capmetro.org/uploadedFiles/New2016/Plan_Your_Trip/Destinations_Schedule_Book/system_map.pdf)
+  * [Austin frequent network only](https://www.capmetro.org/uploadedFiles/New2016/Plan_Your_Trip/Schedules_and_Maps/High%20Frequency%20Routes.pdf)
 * [Baltimore](http://marc.szarkowski.us/4_Miscellaneous_Files/FrequentTransitMap/FrequentTransitMap.pdf) (unofficial)
 * [Bellingham, WA](http://ridewta.com/schedules-and-maps/schedules/go-lines)
 * [Boston](http://www.mbta.com/schedules_and_maps/subway/)
