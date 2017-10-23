@@ -57,6 +57,10 @@ Contributions welcome. See “Contributing” below.
 
 # Oceania
 
+* Canberra, Australia:
+    * [Rapid network schematic](https://www.transport.act.gov.au/__data/assets/pdf_file/0006/1115925/TC-Rapid-Network-Map.pdf)
+    * [Weekday full network](https://www.transport.act.gov.au/__data/assets/pdf_file/0007/1094695/network17_weekday_network_web.pdf)
+    * [Weekend full network](https://www.transport.act.gov.au/__data/assets/pdf_file/0008/1094696/network17_weekend_network_web.pdf)
 * [South Auckland, New Zealand](https://at.govt.nz/media/1971581/sg_southern-guide_oct-2016-web.pdf)
 
 # South America
