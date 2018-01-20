@@ -14,7 +14,7 @@ Contributions welcome. See “Contributing” below.
 * [Champaign/Urbana, IL](http://www.cumtd.com/maps-and-schedules/system-maps/highfrequency)
 * [Chicago](http://web.archive.org/web/20140214104948/http://www.prairiestateblue.com/diary/5576/cta-chicago-transit-authority-frequent-service-mapping) (unofficial)
 * [Cincinnati](http://www.cincymap.org/) (unofficial)
-* [Columbus](http://www.cota.com/Projects/TSR/TSR-Bus-Network.aspx)
+* [Columbus](https://web.archive.org/web/20170615060452/http://www.cota.com/COTA/media/TSR/Current%20Maps/TSR_System_AllLines-11-1-2016.pdf)
 * [Denver](http://denverurbanism.com/2013/02/learn-to-love-the-bus-with-a-map-of-rtds-best-routes.html) (unofficial)
 * Houston
    * [System map](http://ridemetro.org/MetroPDFs/NBN/New-METRO-System-Map.pdf) (shows frequent network)
