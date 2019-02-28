@@ -31,7 +31,7 @@ Contributions welcome. See “Contributing” below.
     * [Queens Transit blog (unofficial)](http://queenstransit.wordpress.com/category/frequent-maps/)
     * [Hudson, NJ (unofficial)](http://capntransit.blogspot.com/2012/08/frequent-transit-in-hudson-county-new.html)
 * [Park City, Utah](http://www.parkcity.org/home/showdocument?id=3729)
-* [Philadelphia](http://unofficialseptafrequent.tumblr.com/) (unofficial)
+* [Philadelphia, Pennsylvania](https://www.septa.org/frequency/img/2019-full-frequency-map.pdf)
 * [Portland, Oregon](http://www.trimet.org/schedules/frequentservice.htm)
 * [Providence, Rhode Island](http://www.ripta.com/stuff/contentmgr/files/0/4214cdbbe108103ebf207dd481fd0d0a/files/ripta_2012_system_map_final.pdf)
 * [Richmond, Virginia](http://ridegrtc.com/media/routes/SystemMap_Nov2016.pdf)
