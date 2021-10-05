@@ -39,6 +39,7 @@ Contributions welcome. See “Contributing” below.
 * San Francisco Bay Area
     * [San Francisco official](https://www.sfmta.com/sites/default/files/maps/2016/SFMTA-Metro-Sept2015-RTP-Outln.pdf)
     * [East Bay](https://web.archive.org/web/20160405234850/http://calurbanist.com/east-bay-frequent-transit/) (unofficial)
+    * [South Bay (VTA)](https://www.vta.org/go/maps)
 * Seattle
     * [seattletransitmap.com](http://seattletransitmap.com/) (unofficial)
     * [King County Metro official](http://kingcounty.gov/depts/transportation/metro/schedules-maps/system-maps.aspx)
