@@ -39,7 +39,7 @@ Contributions welcome. See “Contributing” below.
 * [Salt Lake County, Utah](https://www.rideuta.com/-/media/Files/Rider-Info/Change-Day/ChangeDaySLCountySystemMapDec2022.ashx)
 * [San Antonio](http://www.viainfo.net/BusService/Docs/VIASystemMapJUNE2015.pdf)
 * San Francisco Bay Area
-    * [San Francisco official](https://www.sfmta.com/sites/default/files/maps/2016/SFMTA-Metro-Sept2015-RTP-Outln.pdf)
+    * [San Francisco official](https://www.sfmta.com/maps/muni-service-map)
     * [East Bay](https://web.archive.org/web/20160405234850/http://calurbanist.com/east-bay-frequent-transit/) (unofficial)
     * [South Bay (VTA)](https://www.vta.org/go/maps)
 * Seattle
