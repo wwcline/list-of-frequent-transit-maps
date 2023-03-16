@@ -7,7 +7,7 @@ Contributions welcome. See “Contributing” below.
 * [Anchorage, AK](https://www.muni.org/Departments/transit/PeopleMover/Documents/Anchorage%20Talks%20Transit/Comparison%20Maps%20on%20letterhead.pdf)
 * [Austin, TX](https://capmetro.org/uploadedFiles/New2016/Plans_and_Development/Service_Changes/June2018/CAP_Mspc_Msys-Jun2018.pdf)
 * [Baltimore](http://marc.szarkowski.us/4_Miscellaneous_Files/FrequentTransitMap/FrequentTransitMap.pdf) (unofficial)
-* [Bellingham, WA](http://ridewta.com/schedules-and-maps/schedules/go-lines)
+* [Bellingham, WA](http://www.ridewta.com/Documents/Bellingham.pdf)
 * [Boston](http://www.mbta.com/schedules_and_maps/subway/)
 * [Buffalo, NY](https://www.google.com/maps/d/viewer?msa=0&ie=UTF&mid=zJrBqJ5t3ofc.krqQ-opbkEYA) (unofficial)
 * [Champaign/Urbana, IL](http://www.cumtd.com/maps-and-schedules/system-maps/highfrequency)
