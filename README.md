@@ -14,6 +14,7 @@ Contributions welcome. See “Contributing” below.
 * [Chicago](http://web.archive.org/web/20140214104948/http://www.prairiestateblue.com/diary/5576/cta-chicago-transit-authority-frequent-service-mapping) (unofficial)
 * [Cincinnati](http://www.cincymap.org/) (unofficial)
 * [Columbus](https://web.archive.org/web/20170615060452/http://www.cota.com/COTA/media/TSR/Current%20Maps/TSR_System_AllLines-11-1-2016.pdf)
+* [Davis and Weber Counties, Utah](https://www.rideuta.com/-/media/Files/Rider-Info/Change-Day/ChangeDayWebDavCountySystemMapDec2022.ashx)
 * [Denver](http://denverurbanism.com/2013/02/learn-to-love-the-bus-with-a-map-of-rtds-best-routes.html) (unofficial)
 * Houston
    * [System map](http://ridemetro.org/MetroPDFs/NBN/New-METRO-System-Map.pdf) (shows frequent network)
@@ -35,6 +36,7 @@ Contributions welcome. See “Contributing” below.
 * [Portland, Oregon](http://www.trimet.org/schedules/frequentservice.htm)
 * [Providence, Rhode Island](http://www.ripta.com/stuff/contentmgr/files/0/4214cdbbe108103ebf207dd481fd0d0a/files/ripta_2012_system_map_final.pdf)
 * [Richmond, Virginia](http://ridegrtc.com/media/routes/SystemMap_Nov2016.pdf)
+* [Salt Lake County, Utah](https://www.rideuta.com/-/media/Files/Rider-Info/Change-Day/ChangeDaySLCountySystemMapDec2022.ashx)
 * [San Antonio](http://www.viainfo.net/BusService/Docs/VIASystemMapJUNE2015.pdf)
 * San Francisco Bay Area
     * [San Francisco official](https://www.sfmta.com/sites/default/files/maps/2016/SFMTA-Metro-Sept2015-RTP-Outln.pdf)
@@ -48,6 +50,7 @@ Contributions welcome. See “Contributing” below.
 * [Spokane, WA](https://www.spokanetransit.com/files/content/STA_System_Map_Sept_2016_WEB.pdf)
 * [Toronto](https://www.ttc.ca/PDF/Maps/TTC_SystemMap.pdf)
 * [Tucson, AZ](http://www.humantransit.org/2014/07/tucson-a-frequent-network-map.html) (unofficial)
+* [Utah County, Utah](https://www.rideuta.com/-/media/Files/Rider-Info/Change-Day/ChangeDayUtahCountySystemMapDec2022.ashx)
 * [Vancouver](http://www.translink.ca/en/Plans-and-Projects/Frequent-Transit-Network.aspx)
 * Washington, DC
     * [Official WMATA maps](https://www.wmata.com/schedules/maps/)
