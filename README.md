@@ -39,7 +39,7 @@ Contributions welcome. See “Contributing” below.
 * [San Antonio](http://www.viainfo.net/BusService/Docs/VIASystemMapJUNE2015.pdf)
 * San Francisco Bay Area
     * [San Francisco official](https://www.sfmta.com/maps/muni-service-map)
-    * [East Bay](https://web.archive.org/web/20160405234850/http://calurbanist.com/east-bay-frequent-transit/) (unofficial)
+    * [AC Transit (East Bay)](https://www.actransit.org/sites/default/files/2022-08/SystemOverviewMapwithInsets%20%281%29.pdf)
     * [South Bay (VTA)](https://www.vta.org/go/maps)
 * Seattle
     * [seattletransitmap.com](http://seattletransitmap.com/) (unofficial)
