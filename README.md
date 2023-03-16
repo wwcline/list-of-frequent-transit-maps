@@ -13,7 +13,7 @@ Contributions welcome. See “Contributing” below.
 * [Champaign/Urbana, IL](http://www.cumtd.com/maps-and-schedules/system-maps/highfrequency)
 * [Chicago](http://web.archive.org/web/20140214104948/http://www.prairiestateblue.com/diary/5576/cta-chicago-transit-authority-frequent-service-mapping) (unofficial)
 * [Cincinnati](http://www.cincymap.org/) (unofficial)
-* [Columbus](https://web.archive.org/web/20170615060452/http://www.cota.com/COTA/media/TSR/Current%20Maps/TSR_System_AllLines-11-1-2016.pdf)
+* [Columbus](https://www.cota.com/timetables/cota-system-map.pdf)
 * [Davis and Weber Counties, Utah](https://www.rideuta.com/-/media/Files/Rider-Info/Change-Day/ChangeDayWebDavCountySystemMapDec2022.ashx)
 * [Denver](http://denverurbanism.com/2013/02/learn-to-love-the-bus-with-a-map-of-rtds-best-routes.html) (unofficial)
 * Houston
