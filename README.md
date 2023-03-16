@@ -45,7 +45,6 @@ Contributions welcome. See “Contributing” below.
 * Seattle
     * [seattletransitmap.com](http://seattletransitmap.com/) (unofficial)
     * [King County Metro official](https://kingcounty.gov/depts/transportation/metro/schedules-maps/maps/system.aspx)
-* [Santa Clara County](http://vtaorgcontent.s3-us-west-1.amazonaws.com/Site_Content/Transit_Choices_Report_Full.pdf): see Figure 36 on page 32. Taken from consultant’s report on [VTA’s transit network redesign](http://nextnetwork.vta.org)
 * [Salem, OR](http://cherriots.org/sites/default/files/cherriots-system-map-8-5x11in-2017-09-05.pdf)
 * [Spokane, WA](https://www.spokanetransit.com/files/content/STA_System_Map_Sept_2016_WEB.pdf)
 * [Toronto](https://www.ttc.ca/PDF/Maps/TTC_SystemMap.pdf)
