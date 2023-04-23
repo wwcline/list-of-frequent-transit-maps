@@ -79,7 +79,7 @@ Contributions welcome. See “Contributing” below.
 
 # Contributing
 
-Have a map to add? Use GitHub to open an issue or pull request, or tweet at me: [@wwcline](https://twitter.com/wwcline).
+Have a map to add? Use GitHub to open an issue or pull request.
 
 # Credits
 
