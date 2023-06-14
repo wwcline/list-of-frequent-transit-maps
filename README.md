@@ -20,10 +20,7 @@ Contributions welcome. See “Contributing” below.
    * [System map](http://ridemetro.org/MetroPDFs/NBN/New-METRO-System-Map.pdf) (shows frequent network)
    * [Map showing frequent network only](http://ridemetro.org/MetroPDFs/Schedules/SystemMaps/n-METRO-Frequent-Network-map.pdf)
 * [Indianapolis](http://www.indygo.net/pages/system-map)
-* Los Angeles
-    * [Los Angeles Metro “15 Minute Map”](http://media.metro.net/riding_metro/maps/images/15_min_map.gif)
-    * [Los Angeles Metro map](http://media.metro.net/riding_metro/maps/images/system_map.pdf) also shows frequency
-    * [Orange County](http://octa.net/pdf/ETC_RideGuide%2015-minute.pdf)
+* [Los Angeles](https://www.metro.net/riding/guide/system-maps/)
 * [Minneapolis/St. Paul](http://metrotransit.org/high-frequency-network-map.aspx)
 * [Montréal](http://www.stm.info/sites/default/files/pictures/reseau10max-2016.pdf)
 * New York
@@ -31,6 +28,7 @@ Contributions welcome. See “Contributing” below.
     * [NY Transit Maps (unofficial)](http://nytransitmaps.tumblr.com/post/107648099115/a-frequent-transit-map-of-new-york-for-2015-all)
     * [Queens Transit blog (unofficial)](http://queenstransit.wordpress.com/category/frequent-maps/)
     * [Hudson, NJ (unofficial)](http://capntransit.blogspot.com/2012/08/frequent-transit-in-hudson-county-new.html)
+* [Orange County](http://octa.net/pdf/ETC_RideGuide%2015-minute.pdf)
 * [Philadelphia, Pennsylvania](https://www.septa.org/frequency/img/2019-full-frequency-map.pdf)
 * [Portland, Oregon](http://www.trimet.org/schedules/frequentservice.htm)
 * [Providence, Rhode Island](http://www.ripta.com/stuff/contentmgr/files/0/4214cdbbe108103ebf207dd481fd0d0a/files/ripta_2012_system_map_final.pdf)
