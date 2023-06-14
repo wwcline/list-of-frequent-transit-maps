@@ -48,7 +48,7 @@ Contributions welcome. See “Contributing” below.
 * [Toronto](https://www.ttc.ca/PDF/Maps/TTC_SystemMap.pdf)
 * [Tucson, AZ](http://www.humantransit.org/2014/07/tucson-a-frequent-network-map.html) (unofficial)
 * [Utah County, Utah](https://www.rideuta.com/-/media/Files/Rider-Info/Change-Day/ChangeDayUtahCountySystemMapDec2022.ashx)
-* [Vancouver](http://www.translink.ca/en/Plans-and-Projects/Frequent-Transit-Network.aspx)
+* [Vancouver, British Columbia](https://www.translink.ca/schedules-and-maps/transit-system-maps#transit-system-maps)
 * [Washington, DC](https://www.wmata.com/schedules/maps/)
 
 # Oceania
