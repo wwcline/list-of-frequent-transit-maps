@@ -4,6 +4,7 @@ Contributions welcome. See “Contributing” below.
 
 # North America
 
+* [Akron](https://www.yourmetrobus.org/Data/Sites/2/pdf/systems_map-51523.pdf)
 * [Anchorage, AK](https://www.muni.org/Departments/transit/PeopleMover/Documents/Anchorage%20Talks%20Transit/Comparison%20Maps%20on%20letterhead.pdf)
 * [Austin, TX](https://capmetro.org/uploadedFiles/New2016/Plans_and_Development/Service_Changes/June2018/CAP_Mspc_Msys-Jun2018.pdf)
 * [Baltimore](http://marc.szarkowski.us/4_Miscellaneous_Files/FrequentTransitMap/FrequentTransitMap.pdf) (unofficial)
@@ -21,6 +22,7 @@ Contributions welcome. See “Contributing” below.
    * [Map showing frequent network only](http://ridemetro.org/MetroPDFs/Schedules/SystemMaps/n-METRO-Frequent-Network-map.pdf)
 * [Indianapolis](http://www.indygo.net/pages/system-map)
 * [Los Angeles](https://www.metro.net/riding/guide/system-maps/)
+* [Madison](https://www.cityofmadison.com/metro/documents/network-redesign/june11-service/System_Map_3-9.pdf)
 * [Minneapolis/St. Paul](http://metrotransit.org/high-frequency-network-map.aspx)
 * [Montréal](http://www.stm.info/sites/default/files/pictures/reseau10max-2016.pdf)
 * New York
