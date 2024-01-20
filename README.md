@@ -28,9 +28,11 @@ Contributions welcome. See “Contributing” below.
 * [Montréal](http://www.stm.info/sites/default/files/pictures/reseau10max-2016.pdf)
 * New York
     * [Pedestrian Observations (unofficial)](http://pedestrianobservations.wordpress.com/2011/05/13/frequent-new-york-city-buses/)
+    * [Hudson, NJ (unofficial)](http://capntransit.blogspot.com/2012/08/frequent-transit-in-hudson-county-new.html)
+
     * [NY Transit Maps (unofficial)](http://nytransitmaps.tumblr.com/post/107648099115/a-frequent-transit-map-of-new-york-for-2015-all)
     * [Queens Transit blog (unofficial)](http://queenstransit.wordpress.com/category/frequent-maps/)
-    * [Hudson, NJ (unofficial)](http://capntransit.blogspot.com/2012/08/frequent-transit-in-hudson-county-new.html)
+    * [Suffolk County, New York (Long Island)](https://sctbus.org/portals/32/maps/SCT%20Detailed%20Map%2012x36.pdf)
 * [Orange County](http://octa.net/pdf/ETC_RideGuide%2015-minute.pdf)
 * [Philadelphia, Pennsylvania](https://www.septa.org/frequency/img/2019-full-frequency-map.pdf)
 * [Phoenix, Arizona (Valley Metro)](https://www.valleymetro.org/maps-schedules/system-map)
@@ -48,7 +50,6 @@ Contributions welcome. See “Contributing” below.
     * [King County Metro official](https://kingcounty.gov/depts/transportation/metro/schedules-maps/maps/system.aspx)
 * [Salem, OR](http://cherriots.org/sites/default/files/cherriots-system-map-8-5x11in-2017-09-05.pdf)
 * [Spokane, WA](https://www.spokanetransit.com/files/content/STA_System_Map_Sept_2016_WEB.pdf)
-* [Suffolk County, New York (Long Island)](https://sctbus.org/portals/32/maps/SCT%20Detailed%20Map%2012x36.pdf)
 * [Toronto](https://www.ttc.ca/PDF/Maps/TTC_SystemMap.pdf)
 * [Tucson, AZ](http://www.humantransit.org/2014/07/tucson-a-frequent-network-map.html) (unofficial)
 * [Utah County, Utah](https://www.rideuta.com/-/media/Files/Rider-Info/Change-Day/ChangeDayUtahCountySystemMapDec2022.ashx)
