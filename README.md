@@ -23,6 +23,7 @@ Contributions welcome. See “Contributing” below.
 * [Indianapolis](http://www.indygo.net/pages/system-map)
 * [Los Angeles](https://www.metro.net/riding/guide/system-maps/)
 * [Madison](https://www.cityofmadison.com/metro/documents/network-redesign/june11-service/System_Map_3-9.pdf)
+* [Miami-Dade Country](https://www.miamidade.gov/transit/library/bbn/better-bus-system-map.pdf)
 * [Minneapolis/St. Paul](http://metrotransit.org/high-frequency-network-map.aspx)
 * [Montréal](http://www.stm.info/sites/default/files/pictures/reseau10max-2016.pdf)
 * New York
@@ -47,6 +48,7 @@ Contributions welcome. See “Contributing” below.
     * [King County Metro official](https://kingcounty.gov/depts/transportation/metro/schedules-maps/maps/system.aspx)
 * [Salem, OR](http://cherriots.org/sites/default/files/cherriots-system-map-8-5x11in-2017-09-05.pdf)
 * [Spokane, WA](https://www.spokanetransit.com/files/content/STA_System_Map_Sept_2016_WEB.pdf)
+* [Suffolk County, New York (Long Island)](https://sctbus.org/portals/32/maps/SCT%20Detailed%20Map%2012x36.pdf)
 * [Toronto](https://www.ttc.ca/PDF/Maps/TTC_SystemMap.pdf)
 * [Tucson, AZ](http://www.humantransit.org/2014/07/tucson-a-frequent-network-map.html) (unofficial)
 * [Utah County, Utah](https://www.rideuta.com/-/media/Files/Rider-Info/Change-Day/ChangeDayUtahCountySystemMapDec2022.ashx)
