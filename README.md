@@ -4,7 +4,7 @@ Contributions welcome. See “Contributing” below.
 
 # North America
 
-* [Akron](https://www.yourmetrobus.org/Data/Sites/2/pdf/systems_map-51523.pdf)
+* [Akron](https://www.yourmetrobus.org/metro-maps-schedules.aspx)
 * [Anchorage, AK](https://www.muni.org/Departments/transit/PeopleMover/Documents/Anchorage%20Talks%20Transit/Comparison%20Maps%20on%20letterhead.pdf)
 * [Austin, TX](https://capmetro.org/uploadedFiles/New2016/Plans_and_Development/Service_Changes/June2018/CAP_Mspc_Msys-Jun2018.pdf)
 * [Baltimore](http://marc.szarkowski.us/4_Miscellaneous_Files/FrequentTransitMap/FrequentTransitMap.pdf) (unofficial)
