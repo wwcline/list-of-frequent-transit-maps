@@ -38,7 +38,7 @@ Contributions welcome. See “Contributing” below.
 * [Phoenix, Arizona (Valley Metro)](https://www.valleymetro.org/maps-schedules/system-map)
 * [Portland, Oregon](http://www.trimet.org/schedules/frequentservice.htm)
 * [Providence, Rhode Island](http://www.ripta.com/stuff/contentmgr/files/0/4214cdbbe108103ebf207dd481fd0d0a/files/ripta_2012_system_map_final.pdf)
-* [Richmond, Virginia](http://ridegrtc.com/media/routes/SystemMap_Nov2016.pdf)
+* [Richmond, Virginia](https://www.ridegrtc.com/wp-content/uploads/2026/03/GRTC-System-Map-2.pdf)
 * [Salt Lake County, Utah](https://www.rideuta.com/-/media/Files/Rider-Info/Change-Day/ChangeDaySLCountySystemMapDec2022.ashx)
 * [San Antonio](http://www.viainfo.net/BusService/Docs/VIASystemMapJUNE2015.pdf)
 * San Francisco Bay Area
