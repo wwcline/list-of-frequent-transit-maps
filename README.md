@@ -55,6 +55,7 @@ Contributions welcome. See “Contributing” below.
 * [Utah County, Utah](https://www.rideuta.com/-/media/Files/Rider-Info/Change-Day/ChangeDayUtahCountySystemMapDec2022.ashx)
 * [Vancouver, British Columbia](https://www.translink.ca/schedules-and-maps/transit-system-maps#transit-system-maps)
 * [Washington, DC](https://www.wmata.com/schedules/maps/)
+* [Williamsburg, VA](https://gowata.org/148/Routes-Schedules)
 
 # Oceania
 
